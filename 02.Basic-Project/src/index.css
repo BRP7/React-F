@@ -1,0 +1,16 @@
+.background img{
+  height: 100vh;
+  width:100vw;
+  object-fit: fill;
+  transform: translate(+50%,-25%);
+  position: fixed;
+  z-index: -1;
+}
+
+.main{
+  position: relative;
+}
+
+h1{
+  margin: 15vh 0vh 2vh 0vh;
+}
