@@ -6,10 +6,16 @@ body {
  /* margin: 0;  Remove default body margin 
 } */
 
-/*
+
 main {
-  flex: 1;  Make the main content take up the remaining space 
-} */
+
+  margin-left:40%;
+
+}
+
+main h1,.menutext{
+  color: #FFDB33;
+}
 
 *{
   padding: 0;
@@ -20,16 +26,22 @@ main {
 html,body{
   width: 100%;
   height: 100%;
-  background-color:brown;
-  color: aliceblue;
+  color:#f9f9f9;
+  /* background-color:brown; */
+  background-color: #333;
   font-style:italic;
+
+  /* background-image: url(/vite.svg);
+  background-repeat: no-repeat;
+  background-position: right center;
+  background: ; */
 }
 
 header{
   display: flex;
   align-items: center;
   justify-content: space-between;
-  background-color: #333;
+  /* background-color: #333; */
   color: white;
   padding: 20px;
 }
@@ -37,7 +49,7 @@ footer {
   position: absolute;  /* Position the footer at the bottom */
   bottom: 0;           /* Align it to the bottom */
   width: 100%;         /* Make sure the footer spans the full width */
-  background-color: #333;
+  /* background-color: #333; */
   color: white;
   text-align: center;
   padding: 10px;
@@ -59,4 +71,22 @@ ol li {
   margin: 10px 0; /* Add some space between items */
 }
 
+header nav ul{
+  display: flex;
+  align-items:end;
+  justify-content: space-between;
+  /* gap : 200; */
+}
+
+
+header nav ul li{
+  list-style: none;
+  margin: 10px;
+}
+
+
+header nav ul li:hover{
+  color: #FFDB33;
+  cursor: pointer;
+}
 
