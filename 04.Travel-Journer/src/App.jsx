@@ -24,7 +24,7 @@ export default function App(){
     <Card 
       imageUrl="https://i.natgeofe.com/k/c41b4f59-181c-4747-ad20-ef69987c8d59/eiffel-tower-night.jpg?wp=1&w=1084.125&h=1627.5"
       location="Paris" 
-      locationDescription="This is the description of Paris" 
+      locationDescription="The City of Light, famous for its iconic Eiffel Tower, stunning Notre-Dame Cathedral, and world-class art museums like the Louvre, Paris is a must-visit destination for any traveler."
       link="https://www.google.com/maps" 
       startDate="2024-03-01" 
       endDate="2024-03-31" 
