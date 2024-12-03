@@ -16,7 +16,7 @@ export default function App(){
     <Card 
       imageUrl="https://cdn.britannica.com/01/94501-050-7C939333/Big-Ben-London.jpg" 
       location="London" 
-      locationDescription="This is the description of London" 
+     locationDescription="London, the vibrant capital of England, is a city steeped in history and culture. From the iconic Buckingham Palace to the majestic Tower of London, and from the bustling streets of Soho to the tranquil parks of Kensington, London is a city that seamlessly blends tradition and modernity. With its world-class museums, theaters, and restaurants, London is a destination that has something to offer for every kind of traveler." 
       link="https://www.google.com/maps" 
       startDate="2024-02-01" 
       endDate="2024-02-28" 
