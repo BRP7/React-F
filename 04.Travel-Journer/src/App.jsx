@@ -8,7 +8,7 @@ export default function App(){
     <Card 
       imageUrl="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Empire_State_Building_%28aerial_view%29.jpg/1200px-Empire_State_Building_%28aerial_view%29.jpg"
       location="New York" 
-      locationDescription="This is the description of New York" 
+      locationDescription="New York, the city that never sleeps, is a melting pot of cultures, cuisines, and experiences. From the iconic Statue of Liberty to the bright lights of Times Square, and from the peaceful green oasis of Central Park to the vibrant neighborhoods of Brooklyn and Queens, New York is a city that seamlessly blends history, art, and entertainment. With its world-class museums like the Met and MoMA, iconic music venues like Madison Square Garden, and diverse culinary scene, New York is a destination that has something to offer for every kind of traveler." 
       link="https://www.google.com/maps" 
       startDate="2024-01-01" 
       endDate="2024-01-31" 
